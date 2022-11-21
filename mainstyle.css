@@ -1,0 +1,30 @@
+body{
+	   background-image: url("bg1.jpg");
+	}
+	div{
+		border:3px solid black; margin-left
+		width: 1180px; margin-left: 200px; margin-right: 200px;
+		background-color: #abbdcf;
+		padding: 20px;
+	}
+	a{
+		font-family: Jua;
+		background-color:#142044;
+		color:white; 
+		padding:15px 77px;	
+	}
+	h1{
+		font-family: Arvo;
+		font-size: 48px;
+		color: #000b18;
+	}
+	h2{
+		font-family: Hind Madurai;
+		font-size: 35px;
+		color:#000b18;
+	}
+	p{
+		font-family: Hind Madurai;
+		font-size: 28px;
+		color:#192841;
+	}
